@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMECS Task One", "ATMECS Task One\ATMECS Task One.csproj", "{21C993B5-A10B-4556-88F0-486852052608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C993B5-A10B-4556-88F0-486852052608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C993B5-A10B-4556-88F0-486852052608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C993B5-A10B-4556-88F0-486852052608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C993B5-A10B-4556-88F0-486852052608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {004410AA-5D8F-4491-8A16-6F22E999EE06}
+	EndGlobalSection
+EndGlobal

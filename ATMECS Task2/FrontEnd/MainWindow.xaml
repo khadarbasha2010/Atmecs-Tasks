@@ -1,0 +1,34 @@
+﻿<Window x:Class="FrontEnd.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FrontEnd"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="598" Width="954">
+    <Grid Margin="0,0,0,-6">
+        <TextBox Name="SearchTextBox" HorizontalAlignment="Left" Margin="421,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="300" KeyUp="SearchTextBox_KeyUp" />
+        <Button Name="searchBtn" Content="Search Contacts" HorizontalAlignment="Left" Margin="739,65,0,0" Visibility="Visible" VerticalAlignment="Top" Height="30" Click="SearchContact"/>
+        <Button Name="dltBtn" Content="Delete Contact" HorizontalAlignment="Left" Margin="154,356,0,0" Visibility="Hidden" VerticalAlignment="Top" Height="30" Width="100" Click="DeleteContact"/>
+        <TextBox Name="FirstNameTextBox" HorizontalAlignment="Left" Margin="134,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="120"/>
+        <TextBox Name="LastNameTextBox" HorizontalAlignment="Left" Margin="134,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="120"/>
+        <DatePicker Name="DOBPicker" HorizontalAlignment="Left" Margin="134,155,0,0" SelectedDate="2000-01-01" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox Name="EmailTextBox" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" HorizontalAlignment="Left" Margin="134,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="PhonetextBox" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" HorizontalAlignment="Left" Margin="134,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Name="AddContactBtn" Content="Add Contact" HorizontalAlignment="Left" Margin="154,316,0,0" VerticalAlignment="Top" Click="AddContact" Height="30" Width="100"/>
+        <Button Name="UpdateContactBtn" Content="Update Contact" HorizontalAlignment="Left" Margin="154,316,0,0" Visibility="Hidden" Click="UpdateContact" Height="30" Width="100" VerticalAlignment="Top"/>
+        <Button Name="CleartBtn" Content="Cleart Contact" HorizontalAlignment="Left" Margin="13,316,0,0" Visibility="Hidden" VerticalAlignment="Top" Height="30" Width="100" Click="ClearContact"/>
+
+
+        <DataGrid Name="ContactsListGrid" Height="440" Width="585" HorizontalAlignment="Left" VerticalAlignment="Top" SelectionChanged="ContactsListGrid_SelectionChanged" Margin="318,115,0,0"/>
+
+        <Label Content="Enter First Name" HorizontalAlignment="Left" Margin="0,65,0,0" VerticalAlignment="Top"/>
+        <Label Content="Enter Last Name" HorizontalAlignment="Left" Margin="0,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="Enter DOB" HorizontalAlignment="Left" Margin="0,155,0,0" VerticalAlignment="Top"/>
+        <Label Content="Enter Emails" HorizontalAlignment="Left" Margin="0,195,0,0" VerticalAlignment="Top"/>
+        <Label Content="Enter Phone Numbers" HorizontalAlignment="Left" Margin="0,235,0,0" VerticalAlignment="Top"/>
+        <Label Content="Search Contacts" HorizontalAlignment="Left" Margin="318,65,0,0" VerticalAlignment="Top"/>
+    </Grid>
+
+
+</Window>
