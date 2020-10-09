@@ -23,3 +23,28 @@ D:\My Work Space\AtmecsTasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\Front
 D:\My Work Space\AtmecsTasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.dll
 D:\My Work Space\AtmecsTasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.pdb
 D:\My Work Space\AtmecsTasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.genruntimeconfig.cache
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.exe
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.deps.json
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.runtimeconfig.json
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.runtimeconfig.dev.json
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.dll
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\FrontEnd.pdb
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.csprojAssemblyReference.cache
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd_MarkupCompile.cache
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd_MarkupCompile.lref
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.g.resources
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.AssemblyInfoInputs.cache
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.AssemblyInfo.cs
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.csproj.CoreCompileInputs.cache
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.csproj.CopyComplete
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.dll
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.pdb
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\FrontEnd.genruntimeconfig.cache
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\Views\MainWindow.baml

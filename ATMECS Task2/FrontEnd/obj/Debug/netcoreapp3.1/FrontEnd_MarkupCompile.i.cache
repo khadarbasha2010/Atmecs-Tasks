@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\My Work Space\AtmecsTasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\obj\Debug\netcoreapp3.1\
 FrontEnd
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-D:\My Work Space\AtmecsTasks\ATMECS Task2\FrontEnd\App.xaml
-11151548125
+D:\Atmecs-Tasks\ATMECS Task2\FrontEnd\App.xaml
+11892971807
 
-7-1837786161
+8-1631406420
 1961482627273
-MainWindow.xaml;
+Views\MainWindow.xaml;
 
-True
+False
 

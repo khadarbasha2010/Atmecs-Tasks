@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Work Space\\AtmecsTasks\\ATMECS Task2\\FrontEnd\\FrontEnd.csproj": {}
+    "D:\\Atmecs-Tasks\\ATMECS Task2\\FrontEnd\\FrontEnd.csproj": {}
   },
   "projects": {
-    "D:\\My Work Space\\AtmecsTasks\\ATMECS Task2\\FrontEnd\\FrontEnd.csproj": {
+    "D:\\Atmecs-Tasks\\ATMECS Task2\\FrontEnd\\FrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Work Space\\AtmecsTasks\\ATMECS Task2\\FrontEnd\\FrontEnd.csproj",
+        "projectUniqueName": "D:\\Atmecs-Tasks\\ATMECS Task2\\FrontEnd\\FrontEnd.csproj",
         "projectName": "FrontEnd",
-        "projectPath": "D:\\My Work Space\\AtmecsTasks\\ATMECS Task2\\FrontEnd\\FrontEnd.csproj",
+        "projectPath": "D:\\Atmecs-Tasks\\ATMECS Task2\\FrontEnd\\FrontEnd.csproj",
         "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
-        "outputPath": "D:\\My Work Space\\AtmecsTasks\\ATMECS Task2\\FrontEnd\\obj\\",
+        "outputPath": "D:\\Atmecs-Tasks\\ATMECS Task2\\FrontEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",

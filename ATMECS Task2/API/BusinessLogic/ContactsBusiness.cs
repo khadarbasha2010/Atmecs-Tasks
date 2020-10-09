@@ -14,6 +14,10 @@ namespace API.BusinessLogic
     {
         public ATMECSDBContext _dbContext { get; set; }
         private IMemoryCache _cache;
+        public ContactsBusiness()
+        {
+
+        }
         public ContactsBusiness(ATMECSDBContext dbContext, IMemoryCache cache)
         {
             _dbContext = dbContext;
@@ -58,7 +62,7 @@ namespace API.BusinessLogic
             if (!string.IsNullOrEmpty( searchStr))
             {
                 searchStr = searchStr.ToLower();
-                return _dbContext.TblContacts.Where(e => e.FirstName.ToLower() == searchStr || e.LastName.ToLower() == searchStr).ToList();
+                return _dbContext.TblContacts.Where(e => e.FirstName.ToLower().Contains(searchStr) || e.LastName.ToLower().Contains(searchStr)).ToList();
 
             }
             else
